@@ -1,0 +1,35 @@
+/* background-color: purple; */
+/* background-image: url(/day6/img.jpg); */
+/* background-repeat: no-repeat; */
+/* background-repeat: repeat-x; */
+/* background-repeat: repeat-y; */
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    border: 5px solid blue;
+    /* border-radius: 20px; */
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 50px;
+    padding: 20px;
+}
+
+a {
+    border: 2px solid purple;
+    color: white;
+    background-color: purple;
+    padding: 15px;
+    margin-left: 700px;
+}
+
+p {
+    border: 2px solid blue;
+    height: 100px;
+    width: 50%;
+}
