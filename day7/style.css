@@ -1,0 +1,58 @@
+/* div {
+    border: 2px solid red;
+}
+
+span {
+    border: 2px solid blue;
+} */
+
+/* h1 {
+    color: red;
+}
+
+h2 {
+    color: red;
+} */
+
+/* div {
+    color: blue;
+} */
+
+/* #id1 {
+    color: blue;
+}
+
+#id2 {
+    color: red;
+}
+
+.clas1 {
+    color: purple;
+} */
+
+/* overflow */
+
+/* div {
+    height: 100px;
+    width: 50%;
+    border: 2px solid blue;
+    background-color: blue;
+    overflow: auto;
+} */
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+}
+
+ul {
+    background-color: purple;
+    padding: 10px;
+}
